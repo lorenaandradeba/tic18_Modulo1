@@ -1,0 +1,48 @@
+[submodule "ponto"]
+	path = ponto
+	url = https://github.com/lorenaandradeba/ponto.git
+[submodule "conta"]
+	path = conta
+	url = https://github.com/lorenaandradeba/conta.git
+[submodule "locadora"]
+	path = locadora
+	url = https://github.com/lorenaandradeba/locadora.git
+[submodule "hello-world"]
+	path = hello-world
+	url = https://github.com/lorenaandradeba/hello-world.git
+[submodule "MeuProjeto"]
+	path = MeuProjeto
+	url = https://github.com/lorenaandradeba/MeuProjeto.git
+[submodule "PI-P008"]
+	path = PI-P008
+	url = https://github.com/lorenaandradeba/PI-P008.git
+[submodule "PI-P007"]
+	path = PI-P007
+	url = https://github.com/lorenaandradeba/PI-P007.git
+[submodule "PI-P002"]
+	path = PI-P002
+	url = https://github.com/lorenaandradeba/PI-P002.git
+[submodule "PI-P001"]
+	path = PI-P001
+	url = https://github.com/lorenaandradeba/PI-P001.git
+[submodule "Residevs1"]
+	path = Residevs1
+	url = https://github.com/lorenaandradeba/Residevs1.git
+[submodule "PI-P011"]
+	path = PI-P011
+	url = https://github.com/lorenaandradeba/PI-P011.git
+[submodule "PI-0013"]
+	path = PI-0013
+	url = https://github.com/lorenaandradeba/PI-0013.git
+[submodule "data"]
+	path = data
+	url = https://github.com/lorenaandradeba/data.git
+[submodule "aluno"]
+	path = aluno
+	url = https://github.com/lorenaandradeba/aluno.git
+[submodule "residevs-P014"]
+	path = residevs-P014
+	url = https://github.com/lorenaandradeba/residevs-P014.git
+[submodule "residevs-P24"]
+	path = residevs-P24
+	url = https://github.com/lorenaandradeba/residevs-P24.git
