@@ -4,7 +4,7 @@
 Este repositório contém as instruções práticas e projetos desenvolvidos durante o Módulo 1 do curso TIC18, focado em Programação Imperativa em C++.
 
 ## Conteúdo
-- [ponto](./ponto)
+- [ponto]([https://github.com/lorenaandradeba/ponto/tree/80155144b559cf011a022d686a5b4027d3961c2c)
 - [conta](./conta)
 - [locadora](./locadora)
 - [hello-world](./hello-world)
@@ -28,25 +28,4 @@ Este repositório contém as instruções práticas e projetos desenvolvidos dur
 ## Autor
 - [Lorena Andrade](https://github.com/lorenaandradeba)
 
-- ## Links Âncora
-
-- [ponto](#ponto)
-- [conta](#conta)
-- [locadora](#locadora)
-- [hello-world](#hello-world)
-- [MeuProjeto](#meuprojeto)
-- [PI-P008](#pi-p008)
-- [PI-P007](#pi-p007)
-- [PI-P002](#pi-p002)
-- [PI-P001](#pi-p001)
-- [PI-P009](#pi-p009)
-- [Residevs1](#residevs1)
-- [PI-P011](#pi-p011)
-- [salvarDados](#salvardados)
-- [PI-0013](#pi-0013)
-- [data](#data)
-- [aluno](#aluno)
-- [residevs-P014](#residevs-p014)
-- [locadora](#locadora)
-- [residevs-P24](#residevs-p24)
 
