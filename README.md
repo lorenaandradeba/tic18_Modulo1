@@ -4,7 +4,7 @@
 Este repositório contém as instruções práticas e projetos desenvolvidos durante o Módulo 1 do curso TIC18, focado em Programação Imperativa em C++.
 
 ## Conteúdo
-- [ponto]([https://github.com/lorenaandradeba/ponto/tree/80155144b559cf011a022d686a5b4027d3961c2c)
+- [ponto](https://github.com/lorenaandradeba/ponto/tree/80155144b559cf011a022d686a5b4027d3961c2c)
 - [conta](./conta)
 - [locadora](./locadora)
 - [hello-world](./hello-world)
