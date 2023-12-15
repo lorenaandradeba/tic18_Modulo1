@@ -26,6 +26,8 @@ Este repositório contém as instruções práticas e projetos desenvolvidos dur
 ## Autor
 - [Lorena Andrade](https://github.com/lorenaandradeba)
 
+
+
 - ![Lorena Andrade](https://avatars.githubusercontent.com/u/65913534?s=400&u=3594789ab6031f0e6e6089ffd9c8adc410b511fc&v=4)
 
 
